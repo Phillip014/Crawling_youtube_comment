@@ -29,3 +29,5 @@ with Chrome(executable_path=r'C:\Program Files\chromedriver.exe') as driver:
     for comment in wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "#content"))):
         data.append(comment.text)
 ```        
+
+![Image text](https://github.com/Phillip014/Crawling_youtube_comment/blob/main/temp.png)
