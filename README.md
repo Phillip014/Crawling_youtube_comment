@@ -77,7 +77,9 @@ plt.show()
 
 
 
-Here's the image result
+Here's the image result:
+
+
 ![temp](https://user-images.githubusercontent.com/57136426/179350878-025fcb42-aef6-41c8-82d5-667506a2fc5f.png)
 
 
